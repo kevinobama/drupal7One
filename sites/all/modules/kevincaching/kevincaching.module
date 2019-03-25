@@ -1,7 +1,5 @@
 <?php
-/**
- * Implements hook_menu().
- */
+
 function kevincaching_menu() {
     $items['mysql/mysqllogone'] = array(
         'title' => 'mysql log kevin',
@@ -12,12 +10,24 @@ function kevincaching_menu() {
         'expanded' => TRUE,
     );
 
+//    $items['mysql/mysqllog'] = array( //this creates a URL that will call this form at "examples/form-example"
+//        'title' => 'Create cryptocurrency', //page title
+//        'description' => 'A form to mess around with.',
+//        'page callback' => 'drupal_get_form', //this is the function that will be called when the page is accessed.  for a form, use drupal_get_form
+//        'page arguments' => array('kevincaching_form'), //put the name of the form here
+//        'access callback' => TRUE
+//    );
+
+
     $items['mysql/mysqllog'] = array( //this creates a URL that will call this form at "examples/form-example"
-        'title' => 'Create cryptocurrency', //page title
-        'description' => 'A form to mess around with.',
-        'page callback' => 'drupal_get_form', //this is the function that will be called when the page is accessed.  for a form, use drupal_get_form
-        'page arguments' => array('kevincaching_form'), //put the name of the form here
-        'access callback' => TRUE
+        'title' => 'Content',
+        'description' => 'Find and manage content.',
+        'page callback' => 'drupal_get_form',
+        'page arguments' => array('kevincaching_admin_data'),
+        'access arguments' => array('access content overview'),
+        'weight' => -1,
+        'file' => 'kevincaching.admin.inc',
+
     );
 
     return $items;
@@ -39,7 +49,7 @@ function kevincaching_form($form, &$form_state) {
 
     $form['submit_button'] = array(
         '#type' => 'submit',
-        '#value' => t('Save!'),
+        '#value' => t('Save'),
     );
 
     db_query_node();
@@ -62,4 +72,24 @@ function db_query_node() {
     foreach($nodes as $item) {
         print_r($item->name);
     }
+}
+
+function node_admin_content_one($form, $form_state) {
+    if (isset($form_state['values']['operation']) && $form_state['values']['operation'] == 'delete') {
+        return node_multiple_delete_confirm($form, $form_state, array_filter($form_state['values']['nodes']));
+    }
+
+    $form['#submit'][] = 'node_filter_form_submit';
+    $form['admin'] = node_admin_nodes();
+
+    return $form;
+}
+
+function hook_views_data() {
+
+}
+
+function node_admin_nodes_one() {
+
+    return null;
 }

@@ -1983,6 +1983,7 @@ function node_menu() {
     'weight' => -10,
     'file' => 'node.admin.inc',
   );
+
   $items['admin/content/node'] = array(
     'title' => 'Content',
     'type' => MENU_DEFAULT_LOCAL_TASK,
