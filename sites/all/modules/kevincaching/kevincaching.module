@@ -46,6 +46,8 @@ function kevincaching_form($form, &$form_state) {
         '#value' => t('Click Here!'),
     );
 
+    db_query_node();
+
     return $form;
 }
 
@@ -56,4 +58,12 @@ function kevincaching_form_submit($form, &$form_state) {
     variable_set('MY_MODULE_NAME_setting1', $form_state['values']['MY_MODULE_NAME_setting1']);
 
     drupal_set_message('The MY_MODULE_NAME settings have been saved at '.date("d/m/Y H:i:s"));
+}
+
+function db_query_node() {
+    $nodes = db_query('SELECT * FROM node');
+
+    foreach($nodes as $item) {
+        print_r($item->title);
+    }
 }

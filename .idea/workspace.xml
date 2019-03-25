@@ -2,36 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48fe176c-86ec-4d78-b8a4-d79894dee2dc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sites/all/modules/README.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sites/all/modules/kevincaching/kevincaching.module" beforeDir="false" afterPath="$PROJECT_DIR$/sites/all/modules/kevincaching/kevincaching.module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mailsystem-7.x-2.35.tar.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail-7.x-1.1.tar.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/CHANGELOG.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/includes/mimemail.admin.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/includes/mimemail.incoming.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/includes/mimemail.mail.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/mimemail.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/mimemail.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/mimemail.install" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/mimemail.module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/mimemail.rules.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/modules/mimemail_action/mimemail_action.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/modules/mimemail_action/mimemail_action.module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/modules/mimemail_compress/mimemail_compress.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/modules/mimemail_compress/mimemail_compress.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/modules/mimemail_compress/mimemail_compress.install" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/modules/mimemail_compress/mimemail_compress.module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/modules/mimemail_example/mimemail_example.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/modules/mimemail_example/mimemail_example.install" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/modules/mimemail_example/mimemail_example.module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/tests/mimemail.test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/tests/mimemail_compress.test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/tests/mimemail_rules.test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/theme/mimemail-message.tpl.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/theme/mimemail.theme.inc" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,8 +33,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sites/all/modules/kevincaching/kevincaching.module">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+            <state relative-caret-position="753">
+              <caret line="47" column="4" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -189,19 +160,19 @@
       <updated>1553163227154</updated>
       <workItem from="1553163228826" duration="1304000" />
       <workItem from="1553218360683" duration="211000" />
-      <workItem from="1553477526932" duration="7477000" />
+      <workItem from="1553477526932" duration="7870000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8992000" />
+    <option name="totallyTimeSpent" value="9385000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1363" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4996066" visible="true" weight="0.13820492" />
-      <window_info id="Structure" order="1" sideWeight="0.5003934" side_tool="true" weight="0.16997617" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4996066" visible="true" weight="0.13780779" />
+      <window_info active="true" id="Structure" order="1" sideWeight="0.5003934" side_tool="true" visible="true" weight="0.13780779" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -359,10 +330,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/includes/database/database.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="213" column="12" selection-start-line="213" selection-start-column="12" selection-end-line="213" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/modules/kevincaching/kevincaching.module">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        <state relative-caret-position="753">
+          <caret line="47" column="4" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="4" />
         </state>
       </provider>
     </entry>
