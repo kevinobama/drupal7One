@@ -13,7 +13,7 @@ function kevincaching_menu() {
     );
 
     $items['mysql/mysqllog'] = array( //this creates a URL that will call this form at "examples/form-example"
-        'title' => 'Example Form', //page title
+        'title' => 'Create cryptocurrency', //page title
         'description' => 'A form to mess around with.',
         'page callback' => 'drupal_get_form', //this is the function that will be called when the page is accessed.  for a form, use drupal_get_form
         'page arguments' => array('kevincaching_form'), //put the name of the form here
@@ -34,16 +34,12 @@ function kevincaching_form($form, &$form_state) {
 
     $form['username'] = array(
         '#type' => 'textfield',
-        '#title' => t('username'),
-    );
-    $form['password'] = array(
-        '#type' => 'textfield',
-        '#title' => t('password'),
+        '#title' => t('name'),
     );
 
     $form['submit_button'] = array(
         '#type' => 'submit',
-        '#value' => t('Click Here!'),
+        '#value' => t('Save!'),
     );
 
     db_query_node();
@@ -61,9 +57,9 @@ function kevincaching_form_submit($form, &$form_state) {
 }
 
 function db_query_node() {
-    $nodes = db_query('SELECT * FROM node');
+    $nodes = db_query('SELECT * FROM crypto_currencies');
 
     foreach($nodes as $item) {
-        print_r($item->title);
+        print_r($item->name);
     }
 }
