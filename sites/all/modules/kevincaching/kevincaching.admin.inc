@@ -3,6 +3,11 @@
  * @return mixed
  */
 function kevincaching_admin_data() {
+    $form['options']['submit'] = array(
+        '#type' => 'submit',
+        '#value' => t('Update'),
+    );
+
     $header = array(
         'name' => 'Name'
     );
