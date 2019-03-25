@@ -2,12 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48fe176c-86ec-4d78-b8a4-d79894dee2dc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/themes/seven/page.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/themes/seven/page.tpl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/stark/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/stark/layout.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/stark/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/stark/screenshot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/stark/stark.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/all/modules/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sites/all/modules/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/all/modules/kevincaching/kevincaching.module" beforeDir="false" afterPath="$PROJECT_DIR$/sites/all/modules/kevincaching/kevincaching.module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/all/modules/mailsystem-7.x-2.35.tar.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail-7.x-1.1.tar.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/CHANGELOG.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/includes/mimemail.admin.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/includes/mimemail.incoming.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/includes/mimemail.mail.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/mimemail.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/mimemail.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/mimemail.install" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/mimemail.module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/mimemail.rules.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/modules/mimemail_action/mimemail_action.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/modules/mimemail_action/mimemail_action.module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/modules/mimemail_compress/mimemail_compress.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/modules/mimemail_compress/mimemail_compress.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/modules/mimemail_compress/mimemail_compress.install" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/modules/mimemail_compress/mimemail_compress.module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/modules/mimemail_example/mimemail_example.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/modules/mimemail_example/mimemail_example.install" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/modules/mimemail_example/mimemail_example.module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/tests/mimemail.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/tests/mimemail_compress.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/tests/mimemail_rules.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/theme/mimemail-message.tpl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/theme/mimemail.theme.inc" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,40 +40,44 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/all/modules/kevincaching/kevincaching.info">
+        <entry file="file://$PROJECT_DIR$/sites/all/modules/examples.module">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="594">
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/seven/template.php">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/sites/all/modules/menu_example/menu_example.module">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="823">
+              <caret line="69" selection-start-line="69" selection-end-line="69" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/themes/seven/page.tpl.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/modules/kevincaching/kevincaching.module">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="900">
+              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>_menu()</find>
+      <find>form</find>
+      <find>blog_page_last</find>
+      <find>drupal_get_form</find>
+      <find>_form</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -61,6 +89,9 @@
         <option value="$PROJECT_DIR$/sites/all/modules/kevincaching/mailsystem.info" />
         <option value="$PROJECT_DIR$/sites/all/modules/kevincaching/kevincaching.info" />
         <option value="$PROJECT_DIR$/themes/seven/page.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/modules/menu_example/menu_example.module" />
+        <option value="$PROJECT_DIR$/sites/all/modules/kevincaching/kevincachingform.inc" />
+        <option value="$PROJECT_DIR$/sites/all/modules/kevincaching/kevincaching.module" />
       </list>
     </option>
   </component>
@@ -88,13 +119,33 @@
             <path>
               <item name="drupal7two" type="b2602c69:ProjectViewProjectNode" />
               <item name="drupal7two" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="drupal7two" type="b2602c69:ProjectViewProjectNode" />
               <item name="drupal7two" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="seven" type="462c0819:PsiDirectoryNode" />
+              <item name="sites" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="drupal7two" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drupal7two" type="462c0819:PsiDirectoryNode" />
+              <item name="sites" type="462c0819:PsiDirectoryNode" />
+              <item name="all" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="drupal7two" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drupal7two" type="462c0819:PsiDirectoryNode" />
+              <item name="sites" type="462c0819:PsiDirectoryNode" />
+              <item name="all" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="drupal7two" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drupal7two" type="462c0819:PsiDirectoryNode" />
+              <item name="sites" type="462c0819:PsiDirectoryNode" />
+              <item name="all" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="kevincaching" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -136,25 +187,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553163227154</updated>
-      <workItem from="1553163228826" duration="1002000" />
+      <workItem from="1553163228826" duration="1304000" />
+      <workItem from="1553218360683" duration="211000" />
+      <workItem from="1553477526932" duration="7477000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1002000" />
+    <option name="totallyTimeSpent" value="8992000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1363" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22359015" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4996066" visible="true" weight="0.13820492" />
+      <window_info id="Structure" order="1" sideWeight="0.5003934" side_tool="true" weight="0.16997617" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -162,57 +210,159 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sites/all/modules/kevincaching/README.txt">
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/kevincaching/README.txt" />
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/kevincaching/kevincaching'.module" />
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/kevincaching/mailsystem.module" />
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/kevincaching/mailsystem.info" />
+    <entry file="file://$PROJECT_DIR$/themes/seven/template.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/modules/kevincaching/kevincaching'.module">
+    <entry file="file://$PROJECT_DIR$/themes/seven/page.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="1098">
+          <caret line="61" column="8" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/modules/kevincaching/mailsystem.module">
+    <entry file="file://$PROJECT_DIR$/modules/simpletest/simpletest.info">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/modules/kevincaching/mailsystem.info">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/modules/kevincaching/kevincaching.module">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <caret line="1" column="58" selection-start-line="1" selection-start-column="48" selection-end-line="1" selection-end-column="58" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/modules/kevincaching/kevincaching.info">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/seven/template.php">
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/mimemail/mimemail.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-950" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/forum/forum.admin.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2774" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/node/node.install">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1161" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/syslog/syslog.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="821">
+          <caret line="79" column="15" selection-start-line="79" selection-start-column="15" selection-end-line="79" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/node/content_types.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/node/node.tpl.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/seven/page.tpl.php">
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/examples.info">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/menu_example/menu_example.test">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
+        <state relative-caret-position="738">
+          <caret line="41" column="54" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/page_example/page_example.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="36" column="26" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/examples.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/menu_example/menu_example.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="823">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/default/settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1595" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/simpletest/simpletest.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1474">
+          <caret line="578" column="27" selection-start-line="578" selection-start-column="23" selection-end-line="578" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/block/block.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="43" column="26" lean-forward="true" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/node/node.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="605">
+          <caret line="3749" column="26" selection-start-line="3749" selection-start-column="9" selection-end-line="3749" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/blog/blog.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1869">
+          <caret line="151" column="5" lean-forward="true" selection-start-line="151" selection-start-column="5" selection-end-line="151" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/kevincaching/kevincachingform.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1908">
+          <caret line="934" lean-forward="true" selection-start-line="934" selection-end-line="934" />
+          <folding>
+            <element signature="e#7#286#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/kevincaching/kevincaching.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
         </state>
       </provider>
     </entry>

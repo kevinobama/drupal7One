@@ -1,1 +1,59 @@
 <?php
+/**
+ * Implements hook_menu().
+ */
+function kevincaching_menu() {
+    $items['mysql/mysqllogone'] = array(
+        'title' => 'mysql log kevin',
+        'description' => 'mysql log',
+        'page callback' => 'form_example_intro',
+        'page arguments' => array(t('kevin .', array('!link' => url('examples/menu_example/path_only')))),
+        'access callback' => TRUE,
+        'expanded' => TRUE,
+    );
+
+    $items['mysql/mysqllog'] = array( //this creates a URL that will call this form at "examples/form-example"
+        'title' => 'Example Form', //page title
+        'description' => 'A form to mess around with.',
+        'page callback' => 'drupal_get_form', //this is the function that will be called when the page is accessed.  for a form, use drupal_get_form
+        'page arguments' => array('kevincaching_form'), //put the name of the form here
+        'access callback' => TRUE
+    );
+
+    return $items;
+}
+
+function kevincaching_menu_view($arg) {
+
+    error_log($arg, 3, "/var/tmp/php-errors.log");
+    $data = "china";
+    return $data;
+}
+
+function kevincaching_form($form, &$form_state) {
+
+    $form['username'] = array(
+        '#type' => 'textfield',
+        '#title' => t('username'),
+    );
+    $form['password'] = array(
+        '#type' => 'textfield',
+        '#title' => t('password'),
+    );
+
+    $form['submit_button'] = array(
+        '#type' => 'submit',
+        '#value' => t('Click Here!'),
+    );
+
+    return $form;
+}
+
+/**
+ * Save configuration settings for MY_MODULE_NAME module.
+ */
+function kevincaching_form_submit($form, &$form_state) {
+    variable_set('MY_MODULE_NAME_setting1', $form_state['values']['MY_MODULE_NAME_setting1']);
+
+    drupal_set_message('The MY_MODULE_NAME settings have been saved at '.date("d/m/Y H:i:s"));
+}
