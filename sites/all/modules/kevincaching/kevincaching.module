@@ -21,8 +21,24 @@ function kevincaching_menu() {
         'file' => 'kevincaching.create.inc',
     );
 
+    $items['crypto/category'] = array( //this creates a URL that will call this form at "examples/form-example"
+        'title' => 'list',
+        'description' => 'list',
+        'page callback' => 'kevincaching_abc_view',
+        'page arguments' => array(
+            "btc",
+            'eth',
+        ),
+        'access arguments' => array('access content overview'),
+    );
 
     return $items;
+}
+
+function kevincaching_abc_view($name = 'bill gates', $age = 20) {
+
+    error_log($name.$age, 3, "/var/tmp/php-errors.log");
+    echo("data");
 }
 
 function kevincaching_menu_view($arg) {

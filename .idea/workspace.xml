@@ -3,85 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="48fe176c-86ec-4d78-b8a4-d79894dee2dc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/blog/blog.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/blog/blog.install" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/blog/blog.module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/blog/blog.pages.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/blog/blog.test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/comment/comment-node-form.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/comment/comment-rtl.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/comment/comment-wrapper.tpl.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/comment/comment.admin.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/comment/comment.api.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/comment/comment.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/comment/comment.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/comment/comment.install" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/comment/comment.module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/comment/comment.pages.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/comment/comment.test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/comment/comment.tokens.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/comment/comment.tpl.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/forum/forum-icon.tpl.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/forum/forum-list.tpl.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/forum/forum-rtl.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/forum/forum-submitted.tpl.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/forum/forum-topic-list.tpl.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/forum/forum.admin.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/forum/forum.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/forum/forum.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/forum/forum.install" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/forum/forum.module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/forum/forum.pages.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/forum/forum.test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/forum/forums.tpl.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/examples.index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/examples.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/examples.module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/kevincaching/kevincaching.admin.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/kevincaching/kevincaching.create.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/kevincaching/kevincaching.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/kevincaching/kevincaching.module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/kevincaching/kevincachingform.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mailsystem/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mailsystem/README.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mailsystem/README.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mailsystem/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mailsystem/html_to_text.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mailsystem/mailsystem.admin.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mailsystem/mailsystem.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mailsystem/mailsystem.module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mailsystem/mailsystem.theme.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/menu_example/menu_example.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/menu_example/menu_example.module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/menu_example/menu_example.test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail-7.x-1.1.tar.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/CHANGELOG.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/includes/mimemail.admin.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/includes/mimemail.incoming.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/includes/mimemail.mail.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/mimemail.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/mimemail.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/mimemail.install" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/mimemail.module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/mimemail.rules.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/modules/mimemail_action/mimemail_action.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/modules/mimemail_action/mimemail_action.module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/modules/mimemail_compress/mimemail_compress.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/modules/mimemail_compress/mimemail_compress.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/modules/mimemail_compress/mimemail_compress.install" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/modules/mimemail_compress/mimemail_compress.module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/modules/mimemail_example/mimemail_example.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/modules/mimemail_example/mimemail_example.install" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/modules/mimemail_example/mimemail_example.module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/tests/mimemail.test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/tests/mimemail_compress.test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/tests/mimemail_rules.test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/theme/mimemail-message.tpl.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/mimemail/theme/mimemail.theme.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/dashboard/dashboard-rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/dashboard/dashboard.api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/dashboard/dashboard.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/dashboard/dashboard.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/dashboard/dashboard.install" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/dashboard/dashboard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/dashboard/dashboard.module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/dashboard/dashboard.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/all/modules/kevincaching/kevincaching.module" beforeDir="false" afterPath="$PROJECT_DIR$/sites/all/modules/kevincaching/kevincaching.module" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -94,26 +24,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/modules/node/node.module">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="566">
-              <caret line="1973" column="18" selection-start-line="1973" selection-start-column="14" selection-end-line="1973" selection-end-column="23" />
+            <state relative-caret-position="371">
+              <caret line="1980" column="49" selection-start-line="1980" selection-start-column="31" selection-end-line="1980" selection-end-column="49" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/modules/system/system.api.php">
+        <entry file="file://$PROJECT_DIR$/sites/all/modules/kevincaching/kevincaching.module">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="985">
-              <caret line="254" lean-forward="true" selection-start-line="254" selection-end-line="254" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/node/node.tpl.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="101" column="10" selection-start-line="101" selection-start-column="6" selection-end-line="101" selection-end-column="10" />
+            <state relative-caret-position="522">
+              <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -158,9 +79,9 @@
         <option value="$PROJECT_DIR$/modules/node/node.module" />
         <option value="$PROJECT_DIR$/modules/node/node.admin.inc" />
         <option value="$PROJECT_DIR$/sites/all/modules/kevincaching/kevincaching.admin.inc" />
-        <option value="$PROJECT_DIR$/sites/all/modules/kevincaching/kevincaching.module" />
         <option value="$PROJECT_DIR$/sites/all/modules/kevincaching/kevincaching.create.inc" />
         <option value="$PROJECT_DIR$/modules/system/system.api.php" />
+        <option value="$PROJECT_DIR$/sites/all/modules/kevincaching/kevincaching.module" />
       </list>
     </option>
   </component>
@@ -190,6 +111,32 @@
               <item name="drupal7two" type="b2602c69:ProjectViewProjectNode" />
               <item name="drupal7two" type="462c0819:PsiDirectoryNode" />
               <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="drupal7two" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drupal7two" type="462c0819:PsiDirectoryNode" />
+              <item name="sites" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="drupal7two" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drupal7two" type="462c0819:PsiDirectoryNode" />
+              <item name="sites" type="462c0819:PsiDirectoryNode" />
+              <item name="all" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="drupal7two" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drupal7two" type="462c0819:PsiDirectoryNode" />
+              <item name="sites" type="462c0819:PsiDirectoryNode" />
+              <item name="all" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="drupal7two" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drupal7two" type="462c0819:PsiDirectoryNode" />
+              <item name="sites" type="462c0819:PsiDirectoryNode" />
+              <item name="all" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="kevincaching" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -234,18 +181,19 @@
       <workItem from="1553163228826" duration="1304000" />
       <workItem from="1553218360683" duration="211000" />
       <workItem from="1553477526932" duration="18031000" />
-      <workItem from="1553563649576" duration="3753000" />
+      <workItem from="1553563649576" duration="6904000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23299000" />
+    <option name="totallyTimeSpent" value="26450000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1264" y="23" width="1296" height="1363" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49881983" visible="true" weight="0.20334928" />
-      <window_info id="Structure" order="1" sideWeight="0.5011802" side_tool="true" weight="0.14257348" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49881983" visible="true" weight="0.25119618" />
+      <window_info id="Structure" order="1" sideWeight="0.5011802" side_tool="true" weight="0.25119618" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -428,24 +376,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/modules/kevincaching/kevincaching.module">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="771">
-          <caret line="49" column="1" lean-forward="true" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/includes/mail.inc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="511">
           <caret line="121" column="20" selection-start-line="121" selection-start-column="9" selection-end-line="121" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/node/node.module">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="566">
-          <caret line="1973" column="18" selection-start-line="1973" selection-start-column="14" selection-end-line="1973" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -464,8 +398,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/modules/system/system.api.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="985">
-          <caret line="254" lean-forward="true" selection-start-line="254" selection-end-line="254" />
+        <state relative-caret-position="1050">
+          <caret line="1025" column="6" lean-forward="true" selection-start-line="1025" selection-start-column="6" selection-end-line="1025" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/node/node.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="1980" column="49" selection-start-line="1980" selection-start-column="31" selection-end-line="1980" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/kevincaching/kevincaching.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
         </state>
       </provider>
     </entry>
