@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48fe176c-86ec-4d78-b8a4-d79894dee2dc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/dashboard/dashboard-rtl.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/dashboard/dashboard.api.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/dashboard/dashboard.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/dashboard/dashboard.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/dashboard/dashboard.install" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/dashboard/dashboard.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/dashboard/dashboard.module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/dashboard/dashboard.test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/all/modules/kevincaching/kevincaching.module" beforeDir="false" afterPath="$PROJECT_DIR$/sites/all/modules/kevincaching/kevincaching.module" afterDir="false" />
-    </list>
+    <list default="true" id="48fe176c-86ec-4d78-b8a4-d79894dee2dc" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,24 +11,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/node/node.module">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/beautifultheme/beautifultheme.info">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
-              <caret line="1980" column="49" selection-start-line="1980" selection-start-column="31" selection-end-line="1980" selection-end-column="49" />
+            <state relative-caret-position="180">
+              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sites/all/modules/kevincaching/kevincaching.module">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/beautifultheme/layout.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+            <state relative-caret-position="360">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -82,13 +78,15 @@
         <option value="$PROJECT_DIR$/sites/all/modules/kevincaching/kevincaching.create.inc" />
         <option value="$PROJECT_DIR$/modules/system/system.api.php" />
         <option value="$PROJECT_DIR$/sites/all/modules/kevincaching/kevincaching.module" />
+        <option value="$PROJECT_DIR$/sites/all/themes/beautifultheme/layout.css" />
+        <option value="$PROJECT_DIR$/sites/all/themes/beautifultheme/beautifultheme.info" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1264" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="33" />
     <option name="y" value="23" />
-    <option name="width" value="1296" />
+    <option name="width" value="2527" />
     <option name="height" value="1363" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -110,11 +108,6 @@
             <path>
               <item name="drupal7two" type="b2602c69:ProjectViewProjectNode" />
               <item name="drupal7two" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="drupal7two" type="b2602c69:ProjectViewProjectNode" />
-              <item name="drupal7two" type="462c0819:PsiDirectoryNode" />
               <item name="sites" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -128,15 +121,26 @@
               <item name="drupal7two" type="462c0819:PsiDirectoryNode" />
               <item name="sites" type="462c0819:PsiDirectoryNode" />
               <item name="all" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="drupal7two" type="b2602c69:ProjectViewProjectNode" />
               <item name="drupal7two" type="462c0819:PsiDirectoryNode" />
               <item name="sites" type="462c0819:PsiDirectoryNode" />
               <item name="all" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
-              <item name="kevincaching" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="beautifultheme" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="drupal7two" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drupal7two" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="drupal7two" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drupal7two" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="seven" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -147,11 +151,13 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sites/all/themes/beautifultheme" />
       <recent name="$PROJECT_DIR$/sites/all/modules" />
       <recent name="$PROJECT_DIR$/sites/all/modules/kevincaching" />
     </key>
@@ -181,18 +187,17 @@
       <workItem from="1553163228826" duration="1304000" />
       <workItem from="1553218360683" duration="211000" />
       <workItem from="1553477526932" duration="18031000" />
-      <workItem from="1553563649576" duration="6904000" />
+      <workItem from="1553563649576" duration="7846000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26450000" />
+    <option name="totallyTimeSpent" value="27392000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1264" y="23" width="1296" height="1363" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="2560" height="1363" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49881983" visible="true" weight="0.25119618" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49881983" visible="true" weight="0.12509929" />
       <window_info id="Structure" order="1" sideWeight="0.5011802" side_tool="true" weight="0.25119618" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -412,8 +417,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/modules/kevincaching/kevincaching.module">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/engines/phptemplate/phptemplate.engine">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="522">
-          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/kevintheme/kevintheme.info">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/beautifultheme/beautifultheme.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/beautifultheme/layout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
